@@ -1,0 +1,24 @@
+
+## Blokada
+
+127.0.0.1       localhost
+
+0.0.0.0       api.mixpanel.com
+
+0.0.0.0       spade.twitch.tv
+
+0.0.0.0       pubads.g.doubleclick.net
+
+0.0.0.0       sb.scorecardresearch.com
+
+0.0.0.0       video-weaver.sea01.his.ttvnw.net
+
+0.0.0.0       vaes.amazon-adsystem.com
+
+0.0.0.0       cdn-a.amazon-adsystem.com
+
+0.0.0.0       ad.doubleclick.net
+
+0.0.0.0       aax-us-east.amazon-adsystem.com
+
+0.0.0.0       s.amazon-adsystem.com
