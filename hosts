@@ -1,4 +1,4 @@
-
+####################
 # Blokada Twitch ads
 #
 ####################
@@ -41,3 +41,16 @@
 
 0.0.0.0       images.cdn.engagefront.com
 
+# Test
+
+0.0.0.0       match.adsrvr.org
+
+0.0.0.0       m.adnxs.com
+
+0.0.0.0       secure.adnxs.com
+
+0.0.0.0       ade.googlesyndication.com
+
+0.0.0.0       r1---sn-n5n3uxa-t9gl.googlevideo.com
+
+0.0.0.0       securepubads.g.doubleclick.net
