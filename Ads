@@ -81,3 +81,15 @@
 0.0.0.0 r1---sn-n5n3uxa-t9gl.googlevideo.com
 
 0.0.0.0 securepubads.g.doubleclick.net
+
+0.0.0.0 preview.redd.it/award\_images/t5\_q0gj4/$image
+
+0.0.0.0 preview.redd.it/award\_images/t5\_2xcv7/$image
+
+0.0.0.0 preview.redd.it/award\_images/t5\_2qjpg/$image
+
+0.0.0.0 preview.redd.it/award\_images/t5$image
+
+0.0.0.0 preview.redd.it/award\_images/t5\_22cerq/$image
+
+0.0.0.0 www.redditstatic.com/gold/awards/icon/$image
