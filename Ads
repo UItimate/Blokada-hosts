@@ -93,3 +93,20 @@
 0.0.0.0 preview.redd.it/award\_images/t5\_22cerq/$image
 
 0.0.0.0 www.redditstatic.com/gold/awards/icon/$image
+
+0.0.0.0 https://i.redd.it/award_images/t5_22cerq/9r7hexe6pta41_SnooNice.png
+
+0.0.0.0 https://preview.redd.it/award_images/t5_22cerq/9r7hexe6pta41_SnooNice.png
+
+0.0.0.0 https://www.redditstatic.com/gold/awards/icon/gold_64.png
+
+0.0.0.0 https://i.redd.it/award_images/t5_22cerq/zc4a9vk5zmc51_BuffDoge.png
+
+0.0.0.0 https://preview.redd.it/award_images/t5_22cerq/v1mxw8i6wnf51_Heartwarming.png
+
+0.0.0.0 https://preview.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png
+
+0.0.0.0 https://i.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png
+
+0.0.0.0 https://preview.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png
+
