@@ -5852,6 +5852,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.redsheriff.com
 #</red-sheriff-sites>
 
+<<<<<<< HEAD
 #<cydoor-sites>
 
 # cydoor -- server side tracking
@@ -6551,3 +6552,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 123specia
 
 
+=======
+0.0.0.0 www.redditstatic.com/gold/awards/icon/$image
+>>>>>>> parent of 84d94c4... Merge pull request #3 from UItimate/dev
