@@ -1,3 +1,5 @@
+# Trackers & ads
+
 0.0.0.0 dsc.cisco.com
 
 0.0.0.0 cdn.cookielaw.org
