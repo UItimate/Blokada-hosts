@@ -2176,6 +2176,7 @@ Twitch advertisements
 
 0.0.0.0 api.mixpanel.com
 
+<<<<<<< HEAD
 0.0.0.0 spade.twitch.tv
 
 0.0.0.0 pubads.g.doubleclick.net
@@ -6552,6 +6553,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 123specia
 
 
+=======
+0.0.0.0 www.redditstatic.com/gold/awards/icon/$image
+>>>>>>> parent of 84d94c4... Merge pull request #3 from UItimate/dev
 =======
 0.0.0.0 www.redditstatic.com/gold/awards/icon/$image
 >>>>>>> parent of 84d94c4... Merge pull request #3 from UItimate/dev
