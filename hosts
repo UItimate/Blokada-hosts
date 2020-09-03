@@ -2101,9 +2101,6 @@
 0.0.0.0 zh-hk.facebook.com
 0.0.0.0 zh-tw.facebook.com
 
-
-# Trackers & ads
-
 0.0.0.0 dsc.cisco.com
 
 0.0.0.0 cdn.cookielaw.org
@@ -2114,9 +2111,7 @@
 
 0.0.0.0 mktcs.cloudapps.cisco.com
 
-/data/data/com.termux/files/home/.ssh/id_rsa.pub
-
-#0.0.0.0 www.cisco.com
+##### 0.0.0.0 www.cisco.com
 
 0.0.0.0 d.agkn.com
 
