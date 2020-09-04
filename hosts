@@ -1,5 +1,4 @@
 127.0.0.1 localhost
-# =======
 0.0.0.0 apps.facebook.com
 0.0.0.0 dsc.cisco.com
 0.0.0.0 cdn.cookielaw.org
