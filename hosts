@@ -1,1 +1,8 @@
+127.0.0.1 localhost
 0.0.0.0 apps.facebook.com
+0.0.0.0 dsc.cisco.com
+0.0.0.0 cdn.cookielaw.org
+0.0.0.0 cisco.sc.omtrdc.net
+0.0.0.0 cdcvps.cloudapps.cisco.com
+0.0.0.0 mktcs.cloudapps.cisco.com
+0.0.0.0 www.cisco.com
