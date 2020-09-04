@@ -4403,8 +4403,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 123.fluxads.com
 0.0.0.0 123plays.com
 0.0.0.0 123specia
-
-# Twitch ads
 0.0.0.0 api.mixpanel.com
 0.0.0.0 spade.twitch.tv
 0.0.0.0 pubads.g.doubleclick.net
@@ -4423,9 +4421,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 ads.engagefront.com
 0.0.0.0 videos.cdn.engagefront.com
 0.0.0.0 images.cdn.engagefront.com
-
-##
-
 0.0.0.0 dsc.cisco.com
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cisco.sc.omtrdc.net
